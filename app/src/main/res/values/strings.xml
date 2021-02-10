@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HalatsynZakhar_IO82_lab1.1</string>
+    <string name="title_home">Перша сторінка</string>
+    <string name="title_dashboard">Друга сторінка</string>
+</resources>
